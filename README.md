@@ -1,4 +1,4 @@
 
 # health-bot
 
-a replacement for Starkid2u/health-bot for a different server. Made to be more portable and easier to read.
+a simple backend for a discord bot that manages health. started out as a clone of [Starkid2u/jojo-bot](https://github.com/Starkid2u/jojo-bot) but is now a library.
